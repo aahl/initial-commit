@@ -15,6 +15,8 @@ Many great open-source projects started with a simple, clean initial commit. Thi
 
 The initial commits of classic projects are organized in separate branches:
 
+- **Hello World**: The first commit of `hello, world`
+  - Branch: [`hello-world`](https://github.com/aahl/initial-commit/tree/hello-world)
 - **Golang**: The first commit of the Go programming language
   - Branch: [`golang`](https://github.com/aahl/initial-commit/tree/golang)
 - **Python**: The initial commit of the Python programming language
